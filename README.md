@@ -31,3 +31,4 @@ ROS tracking package spadework
 
 #### Reference 
 * [ROS Wrapper for Intel RealSense Devices](https://github.com/IntelRealSense/realsense-ros)
+* [Multiple-Object-Traking-Lidar](https://github.com/praveen-palanisamy/multiple-object-tracking-lidar)
